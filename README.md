@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left"># Hi there 👋, I'm Ujjal<br><br>🎓 Student passionate about technology and programming.<br><br>🚀 **About Me**<br><br>* 🌱 Currently learning C, C++, Linux, and Cybersecurity<br>* 💻 Exploring Git, GitHub, and Open Source<br>* 🔐 Interested in Ethical Hacking and Linux<br>* 📚 Always learning new technologies and improving my coding skills<br><br>📈 **Goals**<br><br>* Contribute to open-source projects<br>* Build real-world software projects<br>* Improve problem-solving skills<br>* Learn Cybersecurity and Ethical Hacking<br><br>📫 **Connect with Me**<br><br>* GitHub: https://github.com/Ujjal03x</p>
+<p data-importer="text" align="left"> Hi there 👋, I'm Ujjal<br><br>🎓 Student passionate about technology and programming.<br><br>🚀 **About Me**<br><br>* 🌱 Currently learning C, C++, Linux, and Cybersecurity<br>* 💻 Exploring Git, GitHub, and Open Source<br>* 🔐 Interested in Ethical Hacking and Linux<br>* 📚 Always learning new technologies and improving my coding skills<br><br>📈 **Goals**<br><br>* Contribute to open-source projects<br>* Build real-world software projects<br>* Improve problem-solving skills<br>* Learn Cybersecurity and Ethical Hacking<br><br>📫 **Connect with Me**<br><br>* GitHub: https://github.com/Ujjal03x</p>
 
 ###
 
